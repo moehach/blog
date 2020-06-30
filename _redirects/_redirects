@@ -1,10 +1,10 @@
 [[redirects]]
-from = "http://www.blog.mghachem.com/*"
+from = "http://www.theblog.mghachem.com/*"
 to = "https://www.mgahchem.com/blog/:splat"
 status = 301
 force = true
 [[redirects]]
-from = "https://www.blog.mghachem.com/*"
-to = "https://www.blog.mgahchem.com/blog/:splat"
+from = "https://www.theblog.mghachem.com/*"
+to = "https://www.mgahchem.com/blog/:splat"
 status = 301
 force = true
