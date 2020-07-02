@@ -52,20 +52,20 @@ $(function () {
 <!-- Begin Sidebar Navigation
 ================================================== -->
 
-<div class="sidebar logotype">
-  <a href="{{ site.baseurl }}/">m.g hachem</a>
-</div>
+<nav class="sidebar navbar-flex">
+  <a class="logotype" href="{{ site.baseurl }}/">m.g hachem</a>
 <div class="nav-icon">
     <div class="hamburger-bar"></div>
 </div>
 <div id="blackover-nav" class="blackover"></div>
-<nav id="menu">
+<div id="menu">
     <ul>
-        <li><a href="{{ site.baseurl }}/about">About <span class="badge badge-primary">Memoirs Jekyll Theme</span></a></li>
-        <li><a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/">Get Memoirs</a></li>
-        <li><a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/">About</a></li>
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+        <!--<li><a href="{{ site.baseurl }}/about">About <span class="badge badge-primary">Memoirs Jekyll Theme</span></a></li>-->
+        <li><a href="{{ site.baseurl }}/categories">Categories</a></li>
+        <li><a href="https://www.mghachem.com/about.html">About</a></li>
+        <li><a href="https://www.mghachem.com/contact.html">Contact</a></li>
     </ul>
+</div>
 </nav>
 
 {% include search-lunr.html %}
@@ -112,40 +112,94 @@ $(function () {
         {{ content }}
     </div>
 
-    {% if site.mailchimp-list %}
+
+  </div>
+
     <!-- Newsletter
     ================================================== -->
-    <div class="newsletter text-center">
-        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
-        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
-            <div class="mc-field-group d-inline-flex">
-            <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Subscribe" name="subscribe" class="heart">
-            </div>
-        </form>
-    </div>
-    {% endif %}
+  </div>
 
-</div>
+    <div class="footer-background newsletter">
+      {% if site.mailchimp-list %}
+      <div class="container">
+      <h2>Join The Design Blog Community</h2>
+      <p>
+        Get expert advice and lessons on best practices to inspire you, and empower you in your design journey directly to your inbox.
+      </p>
+      <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+          <div class="mc-field-group d-inline-flex">
+          <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+          <input type="submit" value="Subscribe" name="subscribe" class="heart">
+          </div>
+      </form>
+
+
+  </div>
+
+
+        {% endif %}
+    </div>
+
 
 <!-- Begin Footer
 ================================================== -->
-<footer class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-12 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
-            </div>
-            <div class="col-md-6 col-sm-12 text-center text-lg-right">
-                <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net
-            </div>
-        </div>
+<footer>
+  <section class="container">
+    <div class="footer-col-moe">
+      <h6 class="footer-h6">
+        Moe Hachem
+      </h6>
+      <p class="text_small">
+        Creating digital, physical, and mixed user experiences for humans, mostly.
+      </p>
     </div>
+
+    <div class="footer-row">
+      <div class="footer-col-2">
+        <ul class="footer-link-menu">
+          <li><a>Home</a></li>
+          <li><a>About</a></li>
+          <li><a>Blog</a></li>
+          <li><a>Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col-2">
+        <ul class="footer-link-menu">
+          <li><a>Work</a></li>
+          <li><a class="footer-link-sub">Physical</a></li>
+          <li><a class="footer-link-sub">Intersection</a></li>
+          <li><a class="footer-link-sub">Digital</a></li>
+        </ul>
+      </div>
+    </div>
+
+
+
+    <div class="footer-col-5">
+      <a href="#" class="footer-social-icon">
+        <img class="footer-social-icon" src="{{ site.baseurl }}/assets/images/social-sharing/email.svg"/>
+      </a>
+      <a href="https://www.linkedin.com/in/mohamadhachem/">
+        <img class="footer-social-icon" src="{{ site.baseurl }}/assets/images/social-sharing/linked-in.svg"/>
+      </a>
+    </div>
+
+  </section>
+
+  <section class="container">
+    <div class="footer-trademark">
+      <div class="footer-row">
+          <p class="caption">Designed and developed by Moe Hachem. 2020.</p>
+        </div>
+
+      </div>
+  </section>
 </footer>
 <!-- End Footer
 ================================================== -->
 
-</div> <!-- /.site-content -->
+<!-- /.site-content -->
 
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
