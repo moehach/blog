@@ -4,10 +4,10 @@ title: "The Design Blog by M.G Hachem"
 description: "The Design Blog by M.G Hachem."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://www.theblog.mghachem.com
+baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'mghachem-1'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://mghachem.us10.list-manage.com/subscribe/post?u=e1850c8069decdcae533cb5cb&amp;id=3ebd1eb193'
 include: ["_pages"]
 permalink: /:title/
 email: mgh@mghachem.com
