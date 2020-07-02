@@ -332,7 +332,7 @@ align-items: center;}
         border-radius: 1px;
         &:before, &:after {
             content: '';
-            position: relative;
+            position: fixed;
             width: 18px;
             height: 2px;
             background: #292C30;
