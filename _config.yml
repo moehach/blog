@@ -1,11 +1,11 @@
 # Site
-name: "The Design Blog"
-title: "The Design Blog by M.G Hachem"
-description: "The Design Blog by M.G Hachem."
+name: "Jamous by M.G Hachem"
+title: "Jamous Street"
+description: "Empowering designers to create a better life for all."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://www.theblog.mghachem.com
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-143942963-1'
 disqus: 'mghachem-1'
 mailchimp-list: 'https://mghachem.us10.list-manage.com/subscribe/post?u=e1850c8069decdcae533cb5cb&amp;id=3ebd1eb193'
 include: ["_pages"]
@@ -14,23 +14,6 @@ email: mgh@mghachem.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   moe:
     name: Moe Hachem
     display_name: Moe Hachem
