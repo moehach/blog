@@ -80,18 +80,28 @@ h5, h6 {
 }
 
 h1{
-  font-size: 2.7rem;
+  font-size: 2.4rem;
 }
 
-h2 {font-size: 36px;}
+h2 {
+  font-size: 2.25rem;
+}
 
-h3 {font-size: 30px;}
+h3 {
+  font-size: 1.875rem;
+}
 
-h4 {font-size: 1.758125rem;}
+h4 {
+  font-size: 1.758125rem;
+}
 
-h5 {font-size: 1.40625rem;}
+h5 {
+  font-size: 1.40625rem;
+}
 
-h6 {font-size: 1.125rem;}
+h6 {
+  font-size: 1.125rem;
+}
 
 
 
@@ -99,12 +109,14 @@ h6 {font-size: 1.125rem;}
 
 h1 {
   font-size: 2.746875rem;
-  h3 {font-size: 2.1975rem;}
+}
+
+  h3 {
+    font-size: 2.1975rem;
+  }
 }
 
 
-
-}
 
 @media screen and (min-width: 768px){
 h1{
@@ -261,7 +273,7 @@ img, img:hover {
 
 
 .logotype{
-  font-size:1.125rem;
+  font-size:0.9rem;
   padding-left: 30px;
   color: #414141;
   text-decoration: none;
@@ -299,9 +311,9 @@ align-items: center;}
             a {
                 width: 100%;
                 text-decoration: none;
-                color: #8E9AA7;
-                font-weight: 400;
-                font-size: 18px;
+                color: #414141;
+                font-weight: 300;
+                font-size: 0.9rem;
                 position: relative;
             }
             a:hover{
@@ -318,7 +330,7 @@ align-items: center;}
 
   .logotype{
     position: absolute;
-    margin-top: 12px;
+    margin-top: 14px;
     z-index: 1027;
   }
 
@@ -419,9 +431,9 @@ align-items: center;}
                 display: inline-block;
                 padding: 0.9375em 0px 0.9375em 0;
                 text-decoration: none;
-                color: #8E9AA7;
-                font-weight: 400;
-                font-size: 18px;
+                color: #414141;
+                font-weight: 300;
+                font-size: 0.9rem;
                 position: relative;
             }
             a:hover{
