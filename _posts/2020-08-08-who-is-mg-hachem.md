@@ -4,7 +4,7 @@ title:  "Who is M.G. Hachem"
 author: moe
 categories: [ Anecdotes ]
 tags: [ About ]
-image: assets/images/2.jpg
+image: assets/images/3.jpg
 ---
 
 Before I get started with the blog posts, I'd like to introduce myself.

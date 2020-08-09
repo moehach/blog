@@ -4,7 +4,7 @@ title:  "What is Experence Design?"
 author: moe
 categories: [ Anecdotes ]
 tags: [ Philosophy, Experience Design ]
-image: assets/images/3.jpg
+image: assets/images/2.jpg
 ---
 
 It is tempting to break up and package (user) experience design into smaller subcategories to limit their scope, but is that truly reflective of how we experience the world? Or do our experiences extend into the physical world, the digital world, and the intersection of these worlds?
