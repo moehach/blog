@@ -1,9 +1,9 @@
 # Site
-name: "Jamous by M.G Hachem"
-title: "Jamous Street"
+name: "J-Street by M.G Hachem"
+title: "J-Street"
 description: "Empowering designers to create a better life for all."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: https://www.theblog.mghachem.com
 google_analytics: 'UA-143942963-1'
 disqus: 'mghachem-1'
