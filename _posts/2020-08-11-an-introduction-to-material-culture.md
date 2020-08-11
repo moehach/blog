@@ -8,11 +8,9 @@ image: assets/images/4.jpg
 ---
 
 ## What is material culture?
-
 Material culture is the study of the objects, art, and architecture that surround people. It is the study of the physical and material tradition of humankind.
 
 ## Why do we value material culture?
-
 Art and architecture are not valued by artists or their patrons alone, but by entire cultures.
 
 Some of the reasons we value material culture are:
