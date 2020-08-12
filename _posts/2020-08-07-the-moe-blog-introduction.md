@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "J-Street: An Introduction"
+title:  "The Moe Blog: An Introduction"
 author: moe
 categories: [ Anecdotes ]
 tags: [ About ]
 image: assets/images/1.jpg
 ---
 
-The J-Street blog is an online resource created to help all aspiring and professional designers/architects in their design journey by providing my insight, research, and observational anecdotes. The goal is to transform this blog into a comprehensive design guide to help readers come out feeling confident and well equipped to tackle the professional world of design.
+The The Moe Blog is an online resource created to help all aspiring and professional designers/architects in their design journey by providing my insight, research, and observational anecdotes. The goal is to transform this blog into a comprehensive design guide to help readers come out feeling confident and well equipped to tackle the professional world of design.
 
 This blog will be structured in a manner that will allow us to focus on different subject matters spanning a vast field between design history, principles, and even the relationship between design and psychology.
 
 ## Goals
 
-What do I hope to achieve with J-Street?
+What do I hope to achieve with The Moe Blog?
 
 1. My primary goal is to provide a free educational resource to help encourage design education and discourse.
 2. My secondary goal is to change the perception employers have towards designers and emphasize the non-visual parts of design.

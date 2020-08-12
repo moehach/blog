@@ -1,7 +1,7 @@
 # Site
-name: "The Design Blog by Moe Hachem"
-title: "The Design Blog by Moe Hachem"
-description: "Empowering designers to create a better life for all."
+name: "The Moe Blog"
+title: "The Moe Blog"
+description: "Sharing writings and commentaries on design to empower designers to create a better life for all."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: https://theblog.mghachem.com
