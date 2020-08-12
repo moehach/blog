@@ -7,7 +7,7 @@ tags: [ About ]
 image: assets/images/1.jpg
 ---
 
-The The Moe Blog is an online resource created to help all aspiring and professional designers/architects in their design journey by providing my insight, research, and observational anecdotes. The goal is to transform this blog into a comprehensive design guide to help readers come out feeling confident and well equipped to tackle the professional world of design.
+The Moe Blog is an online resource created to help all aspiring and professional designers/architects in their design journey by providing my insight, research, and observational anecdotes. The goal is to transform this blog into a comprehensive design guide to help readers come out feeling confident and well equipped to tackle the professional world of design.
 
 This blog will be structured in a manner that will allow us to focus on different subject matters spanning a vast field between design history, principles, and even the relationship between design and psychology.
 
