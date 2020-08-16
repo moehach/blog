@@ -8,7 +8,6 @@ image: assets/images/3.jpg
 ---
 
 Before I get started with the blog posts, I'd like to introduce myself.
-
 ## You can call me Moe.
 I am a Lebanese designer and grew up in many different countries and amongst very different cultures. I'm what you might call a third culture kid. Granted you probably can't call me a kid anymore. My diverse upbringing shaped the way I view and interact with the world.
 
