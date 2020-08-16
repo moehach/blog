@@ -9,6 +9,15 @@ image: assets/images/5.jpg
 
 The question of "What is Design" is big, but it is also an important question to tackle.
 
+Let's first take a look at the etymology of the word "Design"
+
+>Design
+>/dɪˈzʌɪn/
+>
+>from Latin designare ‘to designate’
+>
+>"To mark out, point out; devise; choose, designate"
+
 We've seen the basic definition, and it rings true:  Any designer that is worth his/her money should be able to mark and point out information in an easily understandable manner.
 
 I like how my art and design history professor once described design through a renaissance perspective:
