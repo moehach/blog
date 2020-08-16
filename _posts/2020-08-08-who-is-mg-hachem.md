@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who is M.G. Hachem"
+title:  "Who is Moe Hachem?"
 author: moe
 categories: [ Anecdotes ]
 tags: [ About ]
