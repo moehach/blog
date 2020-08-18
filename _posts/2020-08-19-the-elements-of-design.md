@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Basic elements of Design"
+title:  "The Basic Elements of Design"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Basics, Theory ]
