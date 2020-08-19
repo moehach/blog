@@ -27,7 +27,6 @@ We can place value in artwork because of the inherent qualities present within i
 Objects and artwork may be associated with religion. Art makes the divine relatable and accessible to humankind. The simplest example is to look at how religious building pay great attention to detail and craft to the point that the buildings themselves are a hybrid between architecture and sculpture.
 
 ### Nationalistic and Cultural Value
-![]
 Art and material culture can possess an incredible cultural value that entire cultures might be willing to wage wars to retrieve these artworks. If we look at the Second World War, for example, entire battalions had the sole task of protecting and preserving valuable artwork.
 
 ## What are the types of material culture?
