@@ -4,7 +4,7 @@ title:  "The Basic Elements of Design"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Basics, Theory ]
-image: assets/images/6.jpg
+image: assets/images/6.png
 ---
 What makes up a design? Design can be very overwhelming to get into when all you look at are the finished compositions. To kick off your journey into design, it's fundamental that you first understand what the difference is between a design element and a design principle.
 - Design Elements
