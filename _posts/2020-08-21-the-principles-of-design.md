@@ -7,10 +7,8 @@ tags: [ Lessons, Basics, Theory ]
 image: assets/images/7.png
 ---
 [In my previous post](https://www.theblog.mghachem.com/the-elements-of-design), I stated the following:
-
 - The elements of design are the tools a designer uses.
 - The principles of design are how a designer uses these tools.
-
 When the elements and principles of designs are combined, they help convey ideas and messages.
 
 Before we get started, I want to highlight this point one more time: The fundamental difference between art and design is that design is about communicating a message successfully to the target audience.
