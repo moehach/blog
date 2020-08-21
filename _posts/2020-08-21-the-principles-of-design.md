@@ -4,7 +4,7 @@ title:  "The Principles of Design"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Basics, Theory ]
-image: assets/images/6.jpg
+image: assets/images/7.png
 ---
 [In my previous post](https://www.theblog.mghachem.com/the-elements-of-design), I stated the following:
 
