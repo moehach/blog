@@ -31,7 +31,7 @@ You use hierarchy to guide the viewer through each element in order of importanc
 
 The basic idea is to sort elements in order of importance and add visual weight to contrast or emphasize importance.
 
-![Heirarchy helps viewers understand what is important](/assets/images/design-principle/1.png "Heirarchy")
+![Heirarchy helps viewers understand what is important](/assets/images/design-principles/1.png "Heirarchy")
 
 ### Balance
 
@@ -144,7 +144,7 @@ Adding variety is a balancing act. Too much variety and you lose compositional h
 
 It's important to keep in mind that you should avoid variety for the sake of variety, or in other words: If an element does not have a clear purpose, remove it.
 
-![Variety can create user interest by avoiding monotony, but it can also create chaos if there is no unity](/assets/images/design-principle/10.png "Variety")
+![Variety can create user interest by avoiding monotony, but it can also create chaos if there is no unity](/assets/images/design-principles/10.png "Variety")
 
 ## List of Design Principles
 
