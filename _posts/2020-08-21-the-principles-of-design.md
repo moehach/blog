@@ -35,7 +35,7 @@ The basic idea is to sort elements in order of importance and add visual weight 
 
 ### Balance
 
-The principle of balance represents the visual weight of "a composition" and can unite or divide a composition. Balance creates stability, and imbalance creates unrest.
+The principle of balance represents the visual weight of a composition and can unite or divide a composition. Balance creates stability, and imbalance creates unrest.
 
 How you distribute objects of differing visual weights determines whether a composition is balanced or not.
 

@@ -47,7 +47,7 @@ The relationship between positive and negative space can be used to create tensi
 
 Positive and negative space are dependent on one another because changing one will affect the other.
 
-Some people use "form" to refer to the three-dimensional quality of an object, but I recommend you shy away from that definition. You can achieve three-dimensional depth by adding volume to shape or object, but not by applying form.  Form can be both three dimensional and two dimensional. There will always be "form" as long as there is positive and negative space.
+Some people use "form" to refer to the three-dimensional quality of an object, but I recommend you shy away from that definition. You can achieve three-dimensional depth by adding volume to shape or object, but not by applying form. Form can be both three dimensional and two dimensional. There will always be form as long as there is positive and negative space.
 
 ![Form in space is hard to represent but you can think about form as positive or non-white space](/assets/images/design-element/4.png "Form")
 
@@ -119,7 +119,7 @@ Movement is a new entry in the designer's toolkit with the emergence of digital 
 
 Before the emergence of digital design, only architecture used movement as a part of its toolkit where the viewer could move within and interact with the physical space.
 
-In digital design, design elements can move, and this movement can begin to provide a narrative to the viewer. "Movement" can direct a user's attention, provide valuable feedback to the user, or keep the user engaged between interactions.
+In digital design, design elements can move, and this movement can begin to provide a narrative to the viewer. Movement can direct a user's attention, provide valuable feedback to the user, or keep the user engaged between interactions.
 
 ![Movement can be used to direct viewer attention](/assets/images/design-element/9.gif "Movement")
 

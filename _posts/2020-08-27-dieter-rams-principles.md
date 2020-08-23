@@ -16,7 +16,7 @@ Functional design dictated that the purpose of a product guided and influenced t
 
 In other words:
 
-"Form follows function."
+Form follows function.
 
 These principles were a methodology Rams used to organise his thinking, but they very quickly became popular. Rams' principles have influenced generations of designers and continue to do so to this day.
 
@@ -67,7 +67,7 @@ Good design is more than the product itself.
 
 We use products daily, and their aesthetics affect how we feel about using them. If you have the most perfectly functional product out there, you'll be hardpressed to use it if it's an eyesore.
 
-Don't mistake aesthetics with ornamentation. "Design for design's sake" is not aesthetic and it detracts from the object's function. Rams' believed that aesthetic design should be a pure expression of the object's function.
+Don't mistake aesthetics with ornamentation. Design for design's sake is not aesthetic and it detracts from the object's function. Rams' believed that aesthetic design should be a pure expression of the object's function.
 
 In other words, the design should be able to explain everything you need to know about the product. Aesthetic design is intuitive design.
 
@@ -109,9 +109,9 @@ Again, the same principles also apply to architecture. A well-designed space wil
 
 ### 6. Good Design is Honest
 
-"Honest design" tells you the truth.
+Honest design tells you the truth.
 
-It tells you how useful or how valuable a product is. "Honest design" does not try to trick you into believing a product is more precious or more innovative than it truly is.
+It tells you how useful or how valuable a product is. Honest design does not try to trick you into believing a product is more precious or more innovative than it truly is.
 
 Good design does not sell you empty promises.
 
@@ -152,7 +152,7 @@ Good design is pure and simple.
 
 
 ## Final Thoughts
-Rams described the designer's role as that of a "gestaltingenieur" or creative engineer. A designer's work should be rational and based his/her design decisions on a thorough understanding of the purpose of the object.
+Rams described the designer's role as that of a gestaltingenieur or creative engineer. A designer's work should be rational and based his/her design decisions on a thorough understanding of the purpose of the object.
 
 Designers have a responsibility to design efficient, effective, and aesthetic solutions that will contribute to improving the world and the life of its users. Our goals as designers should be to identify real-world problems and implications as we solve our user's needs.
 
