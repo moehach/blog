@@ -8,7 +8,7 @@ image: assets/images/6.png
 ---
 What makes up a design? Design can be very overwhelming to get into when all you look at are the finished compositions. To kick off your journey into design, it's fundamental that you first understand what the difference is between a design element and a design principle.
 - Design Elements
-  - Design elements are the basic building blocks that come together to create a composition. Thes are the tools designers have to create their work.
+  - Design elements are the basic building blocks that come together to create a composition. These are the tools designers have to create their work.
 - Design Principles
   - If a design element is a tool a designer has, then design principles describe how a designer uses these tools. We will get into more details about the principles of design in the next post, for now, we're going to focus on the basics.
 
