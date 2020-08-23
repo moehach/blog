@@ -32,7 +32,7 @@ A line has more length than it does thickness and can come in different appearan
 
 You create shape when you enclose a space between points delineated by lines or by contrast to its surroundings. You typically need at least three points in space to create a shape.
 
-You can break down every object you see the simple shapes regardless of how complex that object might appear.
+You can break down every object you see into simple shapes regardless of how complex that object might appear.
 ![These are primary shapes, such as circles, triangles, rectangles, and none geometric shapes](/assets/images/design-element/3.png "Shapes")
 
 ### Form
