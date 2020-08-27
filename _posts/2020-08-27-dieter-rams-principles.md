@@ -4,7 +4,7 @@ title:  "Dieter Rams: 10 Principles for Good Design"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Basics, Theory, Dieter Rams ]
-image: assets/images/9.png
+image: assets/images/9.jpg
 ---
 Dieter Rams, born 1932 in Germany, is an industrial designer known for heading Braun's design team for over 30 years. He founded the "10  Principles of Good Design" as a benchmark to test whether a design can be considered good, or not.
 
