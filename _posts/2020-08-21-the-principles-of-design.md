@@ -3,7 +3,7 @@ layout: post
 title:  "The Principles of Design"
 author: moe
 categories: [ Design ]
-tags: [ Lessons, Basics, Theory ]
+tags: [ Lessons, Foundations, Theory ]
 image: assets/images/7.png
 ---
 [In my previous post](https://www.theblog.mghachem.com/the-elements-of-design), I stated the following:

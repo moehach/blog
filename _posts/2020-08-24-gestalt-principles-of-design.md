@@ -3,7 +3,7 @@ layout: post
 title:  "The Gestalt Principles of Design"
 author: moe
 categories: [ Design ]
-tags: [ Lessons, Basics, Theory ]
+tags: [ Lessons, Foundations, Theory ]
 image: assets/images/8.png
 ---
 The human brain makes sense of the world through pattern and logic. The Gestalt Principles help us understand how we experience the world.
