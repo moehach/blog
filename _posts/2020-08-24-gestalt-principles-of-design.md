@@ -92,7 +92,7 @@ I will elaborate further on each principle in future posts to help you better un
 
 [Todorovic, D. (2008, December 22). *Gestalt principles - Scholarpedia*. Scholarpedia. http://www.scholarpedia.org/article/Gestalt_principles](http://www.scholarpedia.org/article/Gestalt_principles)
 
-[*7 Gestalt Principles of Visual Perception: Cognitive Psychology for UX | UserTesting Blog*. (2019, April 9). UserTesting. https://www.usertesting.com/blog/gestalt-principles](https://www.usertesting.com/blog/gestalt-principles)
+[*7 Gestalt Principles of Visual Perception: Cognitive Psychology for UX*. (2019, April 9). UserTesting. https://www.usertesting.com/blog/gestalt-principles](https://www.usertesting.com/blog/gestalt-principles)
 
 [Bradley, S. (2014, March 29). *Design Principles: Visual Perception And The Principles Of Gestalt*. Smashing Magazine. https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/)
 
