@@ -130,17 +130,13 @@ Before you get started with the list, let's agree on a set of rules for each tas
    - Create a distance between yourself and the objects, I recommend 2m (~6'7"), if you can.
 
 2. This exercise will focus on two things:
-
    - Drawing curved objects in space.
-
    - Drawing rectilinear objects.
 
 3. Use graphite pencils to sketch, and pen for the final drawing.
-
       - Use this exercise to understand the qualities of B and H pencils.
 
 4. Task Goals:
-
    - Create a gesture drawing that is true to the objects.
    - Don't worry about drawing something hyper-realistic.
       - Your end-result ought to be a line drawing using ink pens.
@@ -154,9 +150,7 @@ Before you get started with the list, let's agree on a set of rules for each tas
 2. Use graphite pencils only.
 
 3. Your goal for this exercise are:
-
       - You will draw multiple objects in space.
-
    - You will capture how light affects and passes through objects.
    - You will create shadows and observe how shadows fall on objects.
       - Your result will be a shaded drawing.
@@ -165,7 +159,9 @@ Before you get started with the list, let's agree on a set of rules for each tas
 
 1. Sit in a room with a lot of depth, or a narrow and long corridor.
    - Go to one end of the room/corridor, and centre yourself across the width of the space.
+
 2. Use graphite to draw lines, and charcoal to shade.
+
 3. Your goals for this task are:
    - Draw a "one-point perspective of the space capturing the lighting qualities".
 
@@ -175,10 +171,12 @@ Before you get started with the list, let's agree on a set of rules for each tas
       - If we are in a future where there is no corona, go to a cafe of your choice and draw the interior from a fixed location.
         - In other words, go and draw from the same seat every time.
           - If corona is still an issue where you are, then sit at a corner in the biggest room in your home and draw what you see from that angle.
+
 2. This task will require you to use an ink pen, and a brush using  "India ink".
    - You can use a pencil to set up the base drawing before you begin with ink directly.
       - Use heavyweight cartridge paper.
    - Be mindful of how much water is on the paper at once.
+
 3. Your goals for this task are:
       - Draw a two-point perspective of the space capturing the light qualities.
 
@@ -196,7 +194,6 @@ Before you get started with the list, let's agree on a set of rules for each tas
    - Select a brown colour as your other base.
      - Create multiple shades.
      - Use the shades of brown on areas that are closer to you, or areas directly being hit by a light source.
-
       - After applying the base coat, you should have a series of transparent shades of blue and brown. These shades represent the tonal/shading quality of your composition.
    - Apply the primary dominant colour over the base coat.
      - Don't go too thick with the colours. You still want the base coat to show slightly to create a shading effect.
