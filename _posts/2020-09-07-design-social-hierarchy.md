@@ -4,7 +4,7 @@ title:  "Exploring Hierarchy: Hierarchy as Revolution"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Foundations, Theory ]
-image: assets/images/11.png
+image: assets/images/12.png
 ---
 Some designers will call Hierarchy "Order". In reality, the names don't matter, but the ideas they convey do. We've defined what Hierarchy was previously, but here's a quick recap:
 > Hierarchy relates to how design content can be understood and refers to the importance of an element within a design.
