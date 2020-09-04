@@ -162,6 +162,6 @@ Designers have a responsibility to design efficient, effective, and aesthetic so
 
 [*‘Ten Commandments’ from ‘Dieter Rams: Ten Principles For Good Design’ by Shuffle*. (n.d.). Dieter Rams: Ten Principles For Good Design. Retrieved August 23, 2020, from https://readymag.com/shuffle/dieter-rams/ten-commandments/](https://readymag.com/shuffle/dieter-rams/ten-commandments/)
 
-[Walls, A. (2018, April 16). *Dieter Rams 10 Principles of Good Design | Hacker Noon*. Hacker Noon. https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)
+[Walls, A. (2018, April 16). *Dieter Rams 10 Principles of Good Design.* Hacker Noon. https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)
 
 [Domingo, M. (2020, June 28). *Dieter Rams: 10 Timeless Commandments for Good Design*. The Interaction Design Foundation. https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design](https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design)
