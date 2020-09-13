@@ -67,7 +67,7 @@ If it's an issue of actual job security, then take the necessary steps to find a
 
 If it's an issue of not feeling confident within the team or with the stakeholders, then it's something you can deal with through honest communication. One solution is to invite your stakeholders into the process. You're not asking them to play the role of a designer, but for you to get a better idea of what they're expecting out of you.
 
-## Using the Wrong tools
+## Using the Wrong Tools
 
 You can't drill a wall using a hammer, and the same concept applies the tools you're using while designing. Your "tools" can limit your design process within their constraints. Some constraints might have a workaround, but you will eventually hit a hard limit.
 
