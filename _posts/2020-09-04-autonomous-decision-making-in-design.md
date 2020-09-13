@@ -57,7 +57,7 @@ It's great to learn from experience, but why not learn from someone else's exper
 
 ## Job Insecurity
 
-The one thing that can make even the most adept of designers, or any professional for that matter, is job insecurity. If you find yourself in a position where you're unsure if your company will have your back, or if there's too much riding on a specific decision, you might find yourself freezing on the spot.
+The one thing that can make even the most adept of designers freeze, or any professional for that matter, is job insecurity. If you find yourself in a position where you're unsure if your company will have your back, or if there's too much riding on a specific decision, you might find yourself freezing on the spot.
 
 There's a fair amount of studies out there that explain the effect of job insecurity on your decision-making abilities. Full disclaimer: I've read none of them, but a quick Google search will list them out for you. It doesn't take a scientist to figure out that if you think you're at risk of losing your job, you're not going take bold decisions.
 
