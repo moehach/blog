@@ -146,3 +146,12 @@ Think of it this way: You have a toolkit, but you only ever use the hammer. If y
 When you know how to use your toolkit, you will be able to deconstruct other design work down to their most basic elements and learn how another designer created their work.
 
 Good design comes out of a proper understanding of how to use the elements of design.
+
+## Further Reading
+[Reid, M. (2020, January 24). The 6 elements of design. 99designs. https://es.99designs.com/blog/tips/elements-of-design/](https://es.99designs.com/blog/tips/elements-of-design/)
+
+[Chapman, C. (2018, December 13). The Principles of Design and Their Importance. Toptal Design Blog. https://www.toptal.com/designers/ui/principles-of-design](www.toptal.com/designers/ui/principles-of-design)
+
+[The Building Blocks of Visual Design. (2020, July 27). The Interaction Design Foundation. https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design)
+
+[S, P. (2020, March 25). The 5 Basic Elements of Design. Simpaul Design. https://simpauldesign.com/the-5-basic-elements-of-design/](https://simpauldesign.com/the-5-basic-elements-of-design/)
