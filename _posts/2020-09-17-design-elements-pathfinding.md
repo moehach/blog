@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bruce Mau: An Incomplete Manifesto for Growth"
+title:  "Design Elements and Pathfinding"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Foundations, Theory, Bruce Mau ]
