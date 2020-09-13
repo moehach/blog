@@ -69,7 +69,7 @@ If it's an issue of not feeling confident within the team or with the stakeholde
 
 ## Using the Wrong Tools
 
-You can't drill a wall using a hammer, and the same concept applies the tools you're using while designing. Your "tools" can limit your design process within their constraints. Some constraints might have a workaround, but you will eventually hit a hard limit.
+You can't drill a wall using a hammer, and the same concept applies to the tools you're using while designing. Your "tools" can limit your design process within their constraints. Some constraints might have a workaround, but you will eventually hit a hard limit.
 
 I like the example of designing architecture using Revit or Rhino.
 
@@ -87,7 +87,7 @@ My best advice for when you find yourself stuck in the design process is, to cha
 
 ## Time Constraints
 
-Time is money, and it's troublesome when you have too little time, and far far too many projects.
+Time is money, and it's troublesome when you have too little time, and far too many projects.
 
 If you've worked for a start-up or a brand new design studio, you'll know just how stressful the environment can be. Your studio/start-up takes on more than it can handle, time becomes a scarce resource, and management ends up asking you to create half-assed designs to appease clients.
 
