@@ -4,7 +4,7 @@ title:  "Bruce Mau: An Incomplete Manifesto for Growth"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Foundations, Theory, Bruce Mau ]
-image: assets/images/9.jpg
+image: assets/images/14.png
 ---
 Bruce Mau is a Canadian graphic designer born in 1958. He was the creative director of Bruce Mau Design from 1985 to 2010, and then later founded "The Massive Change Network" in Chicago. Mau's talents extend into the worlds of architecture, art, design, film, and philosophy. He has repeatedly given lectures on art and architecture and design in many universities.
 
