@@ -19,7 +19,7 @@ An uninterrupted space enclosed within borders defines an artboard.
 
 
 ## Grids
-One of the biggest hurdles for creatives is creating something out of nothing. Your new best friend as a designer is a grid. A grid is several uninterrupted vertical and horizontal lines of equal space overlayed on the artboard. Typically the grid doesn't show in the final work, but perhaps you could explore using the grid as a design element. Your grid will allow you to create to work within set rules and constraints.
+One of the biggest hurdles for creatives is creating something out of nothing. Your new best friend as a designer is a grid. A grid is several uninterrupted vertical and horizontal lines of equal spacing overlayed on the artboard. Typically the grid doesn't show in the final work, but perhaps you could explore using the grid as a design element. Your grid will allow you to create to work within set rules and constraints.
 
 ![Defining a grid within an artboard measuring 5x5](/assets/images/pathfinding/2.png "Creating a Grid")
 

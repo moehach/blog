@@ -111,7 +111,7 @@ Branding and advertising studios are very guilty of this point. They'll come up 
 
 Campaigns cost money, and there are many ways to address an advertising campaign. Using AR technology can be very pricey but also very memorable, but printing out a few banners is much cheaper. When management/your client tells you to 'go wild' with a design, they're wasting your time. Get a clear brief from management/your client to better understand what is realistically achievable.
 
-When you set clear expectations from the very beginning, you'll be able to make better design decisions. You'll also save yourself the hassle of having your client tell you "that was not what I asked!".
+When you set clear expectations from the very beginning, you'll be able to make better design decisions. You'll also save yourself the hassle of having your client tell you "that was not what I asked for!".
 
 
 
