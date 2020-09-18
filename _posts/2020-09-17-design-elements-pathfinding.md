@@ -105,7 +105,7 @@ Rectilinear lines move in parallel to a rectangular grid axis. In other words, t
 
 Curvilinear lines are more fluid and can curve along different points of a grid.
 
-![Showing a curvilinear and a rectilinear line to clearly show the difference between both line types](/assets/images/pathfinding/13.png "Curvilinear vs Rectilinear Lines")
+![Showing a rectilinear and a curvilinear line to clearly show the difference between both line types](/assets/images/pathfinding/13.png "Curvilinear vs Rectilinear Lines")
 
 
 
