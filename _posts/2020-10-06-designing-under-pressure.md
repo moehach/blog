@@ -4,7 +4,7 @@ title:  "Designing Under Pressure"
 author: moe
 categories: [ Professional Practice, Design ]
 tags: [ Insights, Lessons, Anecdotes ]
-image: assets/images/17.png
+image: assets/images/18.png
 ---
 Inevitably, you'll eventually run into a situation where you have to deliver a task under an entirely unfeasible deadline. Your company or client will ask you to do a lot within an uncomfortably short timeframe, and you'll be using a program you've never used before. If you don't manage this properly situation from the beginning, you'll be creating the perfect recipe for disaster.
 
