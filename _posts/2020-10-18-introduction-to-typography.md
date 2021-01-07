@@ -133,7 +133,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 ### Aligning text
-You typically want to align text through the baseline. If you have two blocks of text and need to align them to one another, what you'll want to do is find a shared baseline to align them again. It's vital to use a proportional system carefully here to create a natural-looking alignment.
+You typically want to align text through the baseline. If you have two blocks of text and need to align them to one another, what you'll want to do is find a shared baseline to align them against. It's vital to use a proportional system carefully here to create a natural-looking alignment.
 
 Two text blocks are typically aligned along a share baseline.
 
