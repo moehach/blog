@@ -14,7 +14,7 @@ While Usability Heuristics had interaction design in mind, they still present cr
 
 Without further ado, let's get started:
 
-## 1) Visibility of system staus
+## 1) Visibility of system status
 Your design must always keep the user aware and informed about what is happening, and provide appropriate feedback within a reasonable time.
 
 Okay, but why? Why is this important?
