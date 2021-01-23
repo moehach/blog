@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploring Hierarchy: Hierarchy as Revolution"
+title:  "The 10 Usability Heuristics"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Foundations, Theory, Experience Design ]
