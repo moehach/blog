@@ -4,7 +4,7 @@ title:  "The 10 Usability Heuristics"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Foundations, Theory, Experience Design ]
-image: assets/images/12.png
+image: assets/images/24.png
 ---
 A designer's biggest challenge is figuring out if they are on the right path during the design process. The Ten Usability Heuristics is what you can call the Ten Commandments of Interaction Design. I'd go as far as to say they're a non-negotiable part of the process.
 
