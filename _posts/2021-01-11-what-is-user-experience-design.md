@@ -4,7 +4,7 @@ title:  "What is User Experience Design?"
 author: moe
 categories: [ Anecdotes, Lessons ]
 tags: [ Philosophy, Experience Design ]
-image: assets/images/22.jpg
+image: assets/images/22.png
 ---
 
 We've all used products. Some products are enjoyable to use or require no effort from our side because they're easy to use and understand. Other products might not be easy to use at all, or confusing.
