@@ -107,7 +107,7 @@ One important method to prevent mistakes is by reducing the burden on a user's m
 If you've read about the incident you probably know what I'm referencing, otherwise you might want to have a read about how a UI error caused widespread panic in Hawaii in what was dubbed the False Missile Crisis. I'll leave a link to this event in the references at the end of the post.
 
 ## 6) Recognition over recall
-This heuristic ties closely to **consistency and standards**.
+This heuristic ties closely to point 4 (consistency and standards).
 
 You want to minimize a user's memory load by making elements, actions, options, and vital information visible. You don't want users to memorize information from one screen to execute an action on another screen. The information that your users need should be visible or easily accessible when required.
 
