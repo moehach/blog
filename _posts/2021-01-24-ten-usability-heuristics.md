@@ -170,7 +170,7 @@ In a physical context, office buildings or hotels have reception desks that help
 
 The truth of it is: Heuristics are crucial for the creation of any functional design, be it graphical, product, furniture, digital or architectural.
 
-I admit first and foremost that I heavily subscribe to the school of "form follows function". If a design looks 'good' but isn't functional, then the 'design' has failed to achieve its goal.
+I admit first and foremost that I heavily subscribe to the school of "form follows function". If a design looks 'good' but isn't functional, then the 'design' has failed to achieve its goal. The heuristics create a solid guideline to follow to ensure your designs are on the right path to deliver an efficient, effective, and pleasant experience.
 
 ## Further Reading
 [Armen Ghazaryan UX oriented Product Manager with a strong passion for sleek and usable digital products. Posts by Armen Ghazaryan Sh. (2014, October 16). How to Conduct a Usability Heuristic Evaluation. Retrieved January 23, 2021, from https://designmodo.com/usability-heuristic-evaluation/](https://designmodo.com/usability-heuristic-evaluation/)
