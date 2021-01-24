@@ -25,7 +25,7 @@ The same principles apply on the screen as well. If you're entering your usernam
 
 A visible system status allows you to create a channel of communication between you and the user. When you present immediate and appropriate feedback, you're allowing users to learn what went wrong, and how they can determine what their next steps should be. Clear transparent communication generates trust.
 
-![Illustration showing a map that clearly states where the user is within a system, in this case within a building or city](/assets/images/hierarchy/1.png "System Status")
+![Illustration showing a map that clearly states where the user is within a system, in this case within a building or city](/assets/images/heuristics/1.png "System Status")
 
 ## 2) Match between the system and the real world
 The design should present itself as naturally as possible. The design should speak the users' language rather than focusing on specialized jargon or interactions. In other words, draw from real-world experiences.
@@ -44,7 +44,7 @@ When it comes to jargon, let's imagine we have an architectural modelling app wi
 
 It's important that your designs are understandable and don't use specialized words or concepts. You shouldn't assume that just because you know what a word/concept refers to, that other people will understand it too. The only way to figure this part out is to conduct user research to uncover what your target users are familiar with, as well as their established mental model.
 
-![Illustration showing control knobs for a stovetop place in a similar manner as the stovetops themselves to emphasize the importance of creating natural mapping for a more intuitive interaction](/assets/images/hierarchy/2.png "Matching between the system and the real world")
+![Illustration showing control knobs for a stovetop place in a similar manner as the stovetops themselves to emphasize the importance of creating natural mapping for a more intuitive interaction](/assets/images/heuristics/2.png "Matching between the system and the real world")
 
 
 ## 3) User control and freedom
@@ -65,7 +65,7 @@ How does this apply to other design fields? Let's look at architecture, for exam
 This heuristic is akin to having clear emergency exits in a building. Easy-to-follow signage and architectural layouts make it easier for occupants to get in and out of the space. Try and remember a situation where you entered a building only to find yourself lost in a labyrinth-like layout that made it hard for you to exit.
 
 
-![Illustration showing an emergency exit door with a clear demarcated exit sign](/assets/images/hierarchy/3.png "Matching between the system and the real world")
+![Illustration showing an emergency exit door with a clear demarcated exit sign](/assets/images/heuristics/3.png "Matching between the system and the real world")
 
 ## 4) Consistency and standards
 Your designs should be consistent. Avoid putting your users in a situation where they wonder whether a specific action or element will have the same result between different pages. Create a standard and stick to it.
@@ -85,7 +85,7 @@ Imagine the confusion you'd run into if you're used to the entry-level being the
 To summarize: Improve your design's learnability by maintaining consistent standards internally, and drawing from externally set standards, and follow established industry conventions.
 
 
-![Illustration showing a rotating phone dial rather than a keypad used in a digital context](/assets/images/hierarchy/4.png "Matching between the system and the real world")
+![Illustration showing a rotating phone dial rather than a keypad used in a digital context](/assets/images/heuristics/4.png "Matching between the system and the real world")
 
 On a side note, imagine how different our interactions might be if we adopted a traditional phone dial in a digital context, or if the concept of keypads was never discovered.
 
@@ -102,7 +102,7 @@ Using the example of stairs, you'll also notice that buildings with steps outsid
 
 One important method to prevent mistakes is by reducing the burden on a user's memory, supporting undo/redo actions, and asking users to confirm their actions. As you go over your designs, prevent cases where errors will cause serious problems, and then go over the minor-frustrations. The reason you'd want to do this is to make sure the real headaches are solved first. To avoid slips, you'll want to add some constraints and default values that help the users along their way.
 
-![Illustration showing a pop up with an action that might have devastating results](/assets/images/hierarchy/5.png "Error Prevention")
+![Illustration showing a pop up with an action that might have devastating results](/assets/images/heuristics/5.png "Error Prevention")
 
 If you've read about the incident you probably know what I'm referencing, otherwise you might want to have a read about how a UI error caused widespread panic in Hawaii in what was dubbed the False Missile Crisis. I'll leave a link to this event in the references at the end of the post.
 
@@ -126,7 +126,7 @@ Think about how you navigate in a city you've never been to before. Nowadays you
 
 It's vital to keep in mind that this is not an excuse to hide functions. You would be surprised how many people aren't unaware of the typical shortcuts for undo, redo, or print.
 
-![Illustration showing how tourists might navigate in a city if they depended on a GPS or map app, versus how locals might navigate and use shortcuts that an app might not be aware of](/assets/images/hierarchy/6.png "Flexibility and Efficiency of Use")
+![Illustration showing how tourists might navigate in a city if they depended on a GPS or map app, versus how locals might navigate and use shortcuts that an app might not be aware of](/assets/images/heuristics/6.png "Flexibility and Efficiency of Use")
 
 ## 8) Aesthetic and minimalist design
 Your designs must only present relevant information and interactions. Every extra bit of information you add to your screen will compete with one another for user attention. Too much information will reduce the overall visibility of your main elements.
