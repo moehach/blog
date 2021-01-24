@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The 10 Usability Heuristics"
+title:  "The Ten Usability Heuristics"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Foundations, Theory, Experience Design ]
@@ -10,7 +10,7 @@ A designer's biggest challenge is figuring out if they are on the right path dur
 
 Jakob Nielsen and Rolf Molich established the heuristics in 1990. The heuristics are more of a rule of thumb rather than specific guidelines. Nielsen further developed and refined these heuristics four years later based on an analysis of 249 usability issues to create an easy to understand set of heuristics. The heuristics are have remained relatively unchanged since their first conceptualization but are still very relevant today and the foreseeable future.
 
-While Usability Heuristics had interaction design in mind, they still present crucial guidelines to follow for all design fields. They have a place in architecture, (physical) product design, and any other design field.
+I'm not covering any new or mind-blowing content, all credits go to [NNGroup](https://www.nngroup.com/) for sharing it's vast array of UX research for all designers to benefit from. While Usability Heuristics had interaction design in mind, they still present crucial guidelines to follow for all design fields. They have a place in architecture, (physical) product design, and any other design field.
 
 Without further ado, let's get started:
 
