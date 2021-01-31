@@ -18,7 +18,7 @@ I'll explain how visual perception works, and then look at how we can leverage t
 
 For most people without visual impairment, we tend to have a specific field of vision.
 
-![Image showing the typical field of vision in a human eye. Most importantly noting that there is only 5 degrees of vision for central vision](/assets/images/visual-perception-information/3.png "Field of Vision")
+![Image showing the typical field of vision in a human eye. Most importantly noting that there is only 5 degrees of vision for central vision](/assets/images/visual-perception-information/1.png "Field of Vision")
 
 In the centre lies what's called **central vision**. Our "central vision" is limited and has a range of 5 degrees. This field is where we pick up detailed information, read a text, recognize faces, and so on.
 
