@@ -156,17 +156,17 @@ Help documentation should be easy to search through and presented in context whe
 In a physical context, office buildings or hotels have reception desks that help visitors understand how to get to where they need to go.
 
 ## Final Thoughts
-1. First, let's list down the heuristics:
-2. Visibility of system status
-3. Match between system and the real world
-4. User control and freedom
-5. Consistency and standards
-6. Error prevention
-7. Recognition rather than recall
-8. Flexibility and efficiency of use
-9. Aesthetic and minimalist design
-10. Help users recognize, diagnose, and recover from errors
-11. Help and documentation.
+First, let's list down the heuristics:
+1. Visibility of system status
+2. Match between system and the real world
+3. User control and freedom
+4. Consistency and standards
+5. Error prevention
+6. Recognition rather than recall
+7. Flexibility and efficiency of use
+8. Aesthetic and minimalist design
+9. Help users recognize, diagnose, and recover from errors
+10. Help and documentation.
 
 The truth of it is: Heuristics are crucial for the creation of any functional design, be it graphical, product, furniture, digital or architectural.
 
