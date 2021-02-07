@@ -127,4 +127,8 @@ If you're acquainted with the Gestalt Principles of Design, a lot of this inform
 
 [Hachem, M. (2021, January 31). *The Visual Perception of Information*. The M Blog. https://theblog.mghachem.com/the-visual-perception-of-information/](https://theblog.mghachem.com/the-visual-perception-of-information/)
 
+[Lumen Learning. (n.d.). Introduction to Perception | Boundless Psychology. Retrieved February 7, 2021, from https://courses.lumenlearning.com/boundless-psychology/chapter/introduction-to-perception/](https://courses.lumenlearning.com/boundless-psychology/chapter/introduction-to-perception/)
+
 [MeyeSight. (n.d.). *Stages of Visual Processing*. Retrieved February 7, 2021, from http://www.meyesight.net/visual-system-intro/](http://www.meyesight.net/visual-system-intro/)
+
+[Wikia. (n.d.). Visual perception | Psychology Wiki | Fandom. Psychology Wiki. Retrieved February 7, 2021, from https://psychology.wikia.org/wiki/Visual_perception](https://psychology.wikia.org/wiki/Visual_perception)
