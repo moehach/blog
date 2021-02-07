@@ -101,11 +101,11 @@ Why do we struggle to list these items down? It mostly goes back to the fact tha
 
 How do we make this easier to process?
 
-![A series of squares, triangles, and circles with differing colours arranged in sets according to their shapes.](/assets/images/visual-breakdown/5.png "Field of shapes arranged by form")
+![A series of squares, triangles, and circles with differing colours arranged in sets according to their shapes.](/assets/images/visual-breakdown/6.png "Field of shapes arranged by form")
 
 It's significantly faster to list out shapes present, but listing them down by colour is hard because they're still not arranged in a way to promote colour identification.
 
-![A series of squares, triangles, and circles with differing colours arranged in sets according to their shapes and colours.](/assets/images/visual-breakdown/6.png "Field of shapes arranged by form and colour")
+![A series of squares, triangles, and circles with differing colours arranged in sets according to their shapes and colours.](/assets/images/visual-breakdown/7.png "Field of shapes arranged by form and colour")
 
 Notice how much easier it is to list out the information here?
 
