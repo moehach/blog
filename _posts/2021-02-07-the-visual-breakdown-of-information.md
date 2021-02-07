@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Visual Perception of Information"
+title:  "The Visual Breakdown of Information"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Foundations, Theory, Experience Design ]
