@@ -28,6 +28,7 @@ After we've broken down an image, and have decomposed it, we begin to create set
 Here's a classic example of this:
 
 ![A series of dots that are placed closed to each other to create a scene of a dog in a manner that shows how gestalt vision works](/assets/images/visual-breakdown/dog.png "Gestalt Vision")
+
 Image source unclear, but the [image is extracted from ResearchGate](https://www.researchgate.net/figure/The-dog-picture-is-a-popular-example-of-emergence-from-the-field-of-gestalt-psychology_fig1_283090791)
 
 When we look at an image like the one above, most of us can see a scene.  We can tell that there's a dog, that might be on the patio, and oriented towards a road. A small number of people might only see inkblots, but that's beyond our scope for this article. Objectively speaking, we are looking at a series of inkblots, but our eyes break down the image (or information) in a manner that makes the most sense to them. Just imagine how different your experience of the image would have been if you never saw a dog in your life! You'd also be looking at a series of inkblots, or your mind might try to create another understandable image.
@@ -104,7 +105,7 @@ How do we make this easier to process?
 
 It's significantly faster to list out shapes present, but listing them down by colour is hard because they're still not arranged in a way to promote colour identification.
 
-![A series of squares, triangles, and circles with differing colours arranged in sets according to their shapes and colours.](/assets/images/visual-breakdown/5.png "Field of shapes arranged by form and colour")
+![A series of squares, triangles, and circles with differing colours arranged in sets according to their shapes and colours.](/assets/images/visual-breakdown/6.png "Field of shapes arranged by form and colour")
 
 Notice how much easier it is to list out the information here?
 
