@@ -71,7 +71,7 @@ I want you to pay attention to how each page 'feels' and where your eyes focus. 
   <img src="/assets/images/information-layout/4.png" alt="A product page mock-up showing using the product card design that emphasizes the product over it's price" style="width:45%; display:inline-block;"/>
 </div>
 
-The first example might appear as if its products cost a lot more, whereas, with the second example, the price doesn't have as heavy an impact. The difference is incredibly subtle, but its impact on how you subconsciously process the page is very telling.
+The first example might appear as if the products listed under it might cost a lot more, whereas, with the second example, the price doesn't have as heavy an impact. The difference is incredibly subtle, but its impact on how you subconsciously process the page is very telling.
 
 Why does this happen?
 
