@@ -65,7 +65,7 @@ Now let's take these two examples and place them in the context of a product lis
 
 I want you to pay attention to how each page 'feels' and where your eyes focus. The facts and figures don't matter.
 
-<div style="display:flex; align-items:center; margin-left: auto; margin-right: auto;">
+<div style="align-items:center; display:flex; justify-content: space-between; margin-left: auto; margin-right: auto;">
   <img src="/assets/images/information-layout/3.png" alt="A product page mock-up showing using the product card design that emphasizes price" style="width:45%; display:inline-block;"/>
 
   <img src="/assets/images/information-layout/4.png" alt="A product page mock-up showing using the product card design that emphasizes the product over it's price" style="width:45%; display:inline-block;"/>
@@ -83,7 +83,7 @@ We've shifted focuses from cost-based to product-based shopping. Now we can get 
 
 There's a fine line between taking the focus away from the price and outright hiding the price in an obscure location. Take a look at this product highlight card:
 
-![A product card from a product detail page where a checkbox is selected by default that alters the price drastically without directly informing users that the price will increase.](/assets/images/information-layout/4.png "Product Card 3")
+![A product card from a product detail page where a checkbox is selected by default that alters the price drastically without directly informing users that the price will increase.](/assets/images/information-layout/5.png "Product Card 3")
 
 The item clearly states it costs $89.99, but there's also a pre-selected checkbox that tacks on an extra $238.00 to the final price. Here we've shamelessly crossed the line into very unethical territories. I'll discuss these types of dark UX patterns in a later post. Make no mistake that this kind of arrangement is misleading and damaging to the brand and your reputation.
 
@@ -97,3 +97,14 @@ I'm always amazed at how information order strongly changes how we experience a 
 Design allows us to tell a completely different story, even if the two arrangements use the same information. We've only begun to scratch the surface of how a simple design manipulation can completely change a narrative.
 
 Designers have a social and ethical responsibility to arrange information in the most direct and honest way possible.
+
+## Further Reading
+[Bradley, S. (2013, November 7). *How Perception Alters Reality And Design Influences Content*. Vanseo Design. https://vanseodesign.com/web-design/perception-and-reality/](https://vanseodesign.com/web-design/perception-and-reality/)
+
+[Bradley, S. (2020, February 21). *What Designers Should Know About Visual Perception and Memory*. Vanseo Design. https://vanseodesign.com/web-design/visual-perception-memory/](https://vanseodesign.com/web-design/visual-perception-memory/)
+
+[Gayadin, V. (2018, March 28). *How your Design can Influence someone’s Perception of Reality*. Medium. https://blog.prototypr.io/how-your-design-can-influence-someone-s-perception-of-reality-e36b9462932f](https://blog.prototypr.io/how-your-design-can-influence-someone-s-perception-of-reality-e36b9462932f)
+
+[Hachem, M. (2021a, January 31). *The Visual Perception of Information*. The M Blog. https://theblog.mghachem.com/the-visual-perception-of-information/](https://theblog.mghachem.com/the-visual-perception-of-information/)
+
+[Hachem, M. (2021b, February 7). *The Visual Breakdown of Information*. The M Blog. https://theblog.mghachem.com/the-visual-breakdown-of-information/](https://theblog.mghachem.com/the-visual-breakdown-of-information/)
