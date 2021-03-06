@@ -4,7 +4,7 @@ title:  "Information Layout Affects Perception"
 author: moe
 categories: [ Design ]
 tags: [ Lessons, Foundations, Theory, Experience Design ]
-image: assets/images/26.png
+image: assets/images/27.png
 ---
 
 # Information Layout Affects Perception
@@ -92,7 +92,7 @@ I want to emphasize this point: Dark UX patterns are always unethical and are al
 These arrangements will never grab you and force you to do something, but they play a role in subconsciously influencing your decision making. They're the online equivalent of a conman trying to shortchange you.
 
 ## Final Thoughts
-I'm always amazed at how information order strongly changes how we experience a design. In the previous examples, we didn't even touch any design tool other than subtle layout changes. We're only scratching the surface here. When we start including other design methods, we begin to mould a completely different story depending on how we treat the information we laid out.
+I'm always amazed at how information order strongly changes how we experience a design. In the previous examples, we didn't even touch any design tool other than subtle layout changes. We're only scratching the surface here. When we start including other design methods, we begin to mold a completely different story depending on how we treat the information we laid out.
 
 Design allows us to tell a completely different story, even if the two arrangements use the same information. We've only begun to scratch the surface of how a simple design manipulation can completely change a narrative.
 
