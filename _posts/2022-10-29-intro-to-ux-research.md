@@ -8,6 +8,7 @@ image: assets/images/29.png
 ---
 
 ##It's Been a Long time
+
 It's been quite some time since I've posted anything, so to rekindle my knowledge-sharing flame, I'll kick off my new efforts with a new post on UX Research. Going forward, I will attempt to publish two posts a month. Here's to new beginnings.
 
 ## This is Not a Formula.
