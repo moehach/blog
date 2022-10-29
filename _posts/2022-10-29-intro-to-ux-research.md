@@ -4,7 +4,7 @@ title:  "An Introduction to UX Research: A Cheat Sheet"
 author: moe
 categories: [ Design, User Research ]
 tags: [ Lessons, Theory, Experience Design, Research ]
-image: assets/images/28.png
+image: assets/images/29.png
 ---
 
 ##It's Been a Long time
