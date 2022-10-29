@@ -2,7 +2,7 @@
 layout: post
 title:  "Autonomous Decision Making in Design"
 author: moe
-categories: [ Professional Practice ]
+categories: [ Professional Practice, Design ]
 tags: [ Insights ]
 image: assets/images/10.png
 ---

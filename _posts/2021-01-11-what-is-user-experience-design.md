@@ -2,8 +2,8 @@
 layout: post
 title:  "What is User Experience Design?"
 author: moe
-categories: [ Anecdotes, Lessons ]
-tags: [ Philosophy, Experience Design ]
+categories: [ Anecdotes, Design ]
+tags: [ Lessons, Philosophy, Experience Design ]
 image: assets/images/22.png
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Design is Not Independent of Context"
 author: moe
-categories: [ Professional Practice ]
+categories: [ Professional Practice, Design ]
 tags: [ Insights ]
 image: assets/images/13.png
 ---

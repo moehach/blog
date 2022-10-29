@@ -2,8 +2,8 @@
 layout: post
 title:  "The Job Interview Design Challenge"
 author: moe
-categories: [ Professional Practice, Design ]
-tags: [ Insights, Lessons, Anecdotes ]
+categories: [ Professional Practice, Design, Anecdotes ]
+tags: [ Insights, Lessons ]
 image: assets/images/20.png
 ---
 Almost every single designer out there has been put in a situation where job interviews seem to be going well until the hiring teams asks you to do a design challenge.

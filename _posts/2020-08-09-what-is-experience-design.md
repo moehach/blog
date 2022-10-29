@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Experience Design?"
 author: moe
-categories: [ Anecdotes ]
+categories: [ Anecdotes, Design ]
 tags: [ Philosophy, Experience Design ]
 image: assets/images/2.jpg
 ---

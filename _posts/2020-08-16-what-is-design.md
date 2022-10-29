@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Design?"
 author: moe
-categories: [ Anecdotes ]
+categories: [ Anecdotes, Design ]
 tags: [ Philosophy ]
 image: assets/images/5.jpg
 ---

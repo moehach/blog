@@ -2,7 +2,7 @@
 layout: post
 title:  "Design Thinking is Not Design"
 author: moe
-categories: [ Professional Practice, Anecdotes, Lessons ]
+categories: [ Professional Practice, Anecdotes ]
 tags: [ Insights, Philosophy, Experience Design ]
 image: assets/images/28.png
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Design Elements and Pathfinding"
 author: moe
 categories: [ Design ]
-tags: [ Lessons, Foundations, Theory, Bruce Mau ]
+tags: [ Lessons, Foundations, Theory ]
 image: assets/images/15.png
 ---
 In this post, we're going to begin exploring the basic terms used when creating a composition. We will also explore how to create a grid, a point, a line, and a plane. Afterwards, we're going to explore the very basics of pathfinding and how to use it as a technique to create complex shapes.
