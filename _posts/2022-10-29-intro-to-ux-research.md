@@ -185,14 +185,14 @@ I did not provide a comprehensive list, but I hope this post will serve you as a
 
 ## Further Reading
 
-[*Complete Beginner’s Guide to UX Research | UX Booth*. (n.d.). Retrieved October 29, 2022, from https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
+[Complete Beginner’s Guide to UX Research | UX Booth. (n.d.). Retrieved October 29, 2022, from https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
 
-[Philips, M. (2019, August 6). *The Complete Guide to UX Research Methods*. Toptal Design Blog. https://www.toptal.com/designers/user-research/guide-to-ux-research-methods](https://www.toptal.com/designers/user-research/guide-to-ux-research-methods)
+[Philips, M. (2019, August 6). The Complete Guide to UX Research Methods. Toptal Design Blog. https://www.toptal.com/designers/user-research/guide-to-ux-research-methods](https://www.toptal.com/designers/user-research/guide-to-ux-research-methods)
 
-[*The 2021 UX Research Tools Map*. (2022, August 25). https://www.userinterviews.com/blog/ux-research-tools-map-2021](https://www.userinterviews.com/blog/ux-research-tools-map-2021)
+[The 2021 UX Research Tools Map. (2022, August 25). https://www.userinterviews.com/blog/ux-research-tools-map-2021](https://www.userinterviews.com/blog/ux-research-tools-map-2021)
 
-[UsabilityHub. (n.d.). *User Testing Guides*. Retrieved October 29, 2022, from https://usabilityhub.com/guides](https://usabilityhub.com/guides)
+[UsabilityHub. (n.d.). User Testing Guides. Retrieved October 29, 2022, from https://usabilityhub.com/guides](https://usabilityhub.com/guides)
 
-[*What is UX Research? Methods & Types | UserTesting Blog*. (n.d.). UserTesting. Retrieved October 29, 2022, from https://www.usertesting.com/blog/what-is-ux-research](https://www.usertesting.com/blog/what-is-ux-research)
+[What is UX Research? Methods & Types | UserTesting Blog. (n.d.). UserTesting. Retrieved October 29, 2022, from https://www.usertesting.com/blog/what-is-ux-research](https://www.usertesting.com/blog/what-is-ux-research)
 
-[*When to Use Which User-Experience Research Methods*. (n.d.). Nielsen Norman Group. Retrieved October 29, 2022, from https://www.nngroup.com/articles/which-ux-research-methods/](https://www.nngroup.com/articles/which-ux-research-methods/)
+[When to Use Which User-Experience Research Methods. (n.d.). Nielsen Norman Group. Retrieved October 29, 2022, from https://www.nngroup.com/articles/which-ux-research-methods/](https://www.nngroup.com/articles/which-ux-research-methods/)
