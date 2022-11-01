@@ -86,11 +86,7 @@ Sometimes, as my experience can attest, giving it your best means your work is n
 
 What if I handed the company a half-baked idea?
 
-In the beginning, presenting unpolished work frightened me, yet with experience, I learnt it was a tool to protect me. I could work on the brief but choose not to polish it and keep it conceptual. I could align the work with my core principles and hand off a framework of how I would approach the project, but not hand off anything that a prospective employer can steal as-is. This method allows me to display how I think and solve problems. Most importantly, it saves me time, effort, and the pain of seeing another company run off with my work. If the employer understands UX, they'd appreciate the ideas and approaches you presented far more than the end product.
-
-That said, work tests result in little more than polished turds that exist out of context and do not represent UX at any level. As I like to say - you can polish a turd, but at the end of the day, you'll still have a turd.
-
-Half-baked ideas can save you the pain of seeing a company steal your work. It can save you time and effort working on non-contextual assignments. Most importantly, as a UX specialist, it filters out companies with no interest in improving their UX maturity.
+In the beginning, presenting unpolished work frightened me, yet with experience, I learnt it was a tool to protect me. I could work on the brief but choose not to polish it and keep it conceptual. I could align the work with my core principles and hand off a framework of how I would approach the project, but not hand off anything that anyone can steal as-is.
 
 
 ## Avoid Baking
@@ -115,9 +111,7 @@ I love the idea of working on a project that will never see refinement past a me
 
 Low-fidelity work lets you focus on what matters when working in an agile/lean environment. Instead of focusing on the visual appeal, you can focus your efforts on research and understanding your users. The visual refinement can come after you've keyed in on a solution that works. Lo-fi work can empower you to try less-travelled paths while providing you with a way back to safety.
 
-A turd is still a turd, even if you've polished it.
-
-Make sure you're polishing something worthwhile.
+As I like to say: A turd is still a turd, even if you've polished it, so always make sure you're polishing something worthwhile.
 
 I feel I need to leave a disclaimer here:
 I am not advocating delivering unfinished work.
