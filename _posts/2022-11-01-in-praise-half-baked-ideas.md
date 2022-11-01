@@ -111,11 +111,8 @@ I love the idea of working on a project that will never see refinement past a me
 
 Low-fidelity work lets you focus on what matters when working in an agile/lean environment. Instead of focusing on the visual appeal, you can focus your efforts on research and understanding your users. The visual refinement can come after you've keyed in on a solution that works. Lo-fi work can empower you to try less-travelled paths while providing you with a way back to safety.
 
-As I like to say: A turd is still a turd, even if you've polished it, so always make sure you're polishing something worthwhile.
+As I like to say: If you're digging for gold, you're bound to find turd on the way. Before you begin polishing what you picked up, you need to examine what you have in hand. A turd is still a turd, even if you've polished it, so always make sure you're polishing something worthwhile.
 
-I feel I need to leave a disclaimer here:
-I am not advocating delivering unfinished work.
-Instead, I suggest we look at products/projects as work undergoing constant development and avoid labelling them as "Done".
 
 ## Further Reading
 
