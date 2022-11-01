@@ -84,9 +84,9 @@ You've two courses of action:
 
 Sometimes, as my experience can attest, giving it your best means your work is now liable to be stolen. It was a slap in the face when I saw a company had outright stolen my designs and received widespread regional recognition for it. Instead of getting a job and recognition as a fresh graduate, I found that I devalued my time and skills.
 
-What if I handed the company a half-baked idea?
+What if you handed the company a half-baked idea?
 
-In the beginning, presenting unpolished work frightened me, yet with experience, I learnt it was a tool to protect me. I could work on the brief but choose not to polish it and keep it conceptual. I could align the work with my core principles and hand off a framework of how I would approach the project, but not hand off anything that anyone can steal as-is.
+In the beginning, presenting unpolished work frightened me, yet with experience, I learnt it was a tool that can filter out bad actors. I could work on the brief but choose not to polish it and keep it conceptual. I could align the work with my core principles and hand off a framework of how I would approach the project, but not hand off anything that anyone can steal as-is.
 
 
 ## Avoid Baking
