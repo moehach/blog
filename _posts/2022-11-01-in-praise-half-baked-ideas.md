@@ -66,12 +66,6 @@ Unbaked ideas and designs will make your users less hesitant to pick up a pen an
 
 Quite a bit of this is me advocating for some good old pen and paperwork over the sterile digital environments.
 
-## Avoid Baking
-
-You can easily tear apart or deconstruct unfinished projects/ideas/thoughts. Think of it this way: You're more likely to scribble over some stick figures that represent a person than to scribble over the Mona Lisa.
-
-The ability to tear down and rebuild without having lost time or effort in the process is a liberating experience and allows you to take your design process and research to new bounds and places.
-
 ## Roll Your Dough Correctly
 
 Unrefined ideas in sketch form have a unique property: It's a sketch, you didn't put time into building it up, and it won't hurt if you throw it out because who cares? You can sketch it out again in 5 minutes.
@@ -97,6 +91,20 @@ In the beginning, presenting unpolished work frightened me, yet with experience,
 That said, work tests result in little more than polished turds that exist out of context and do not represent UX at any level. As I like to say - you can polish a turd, but at the end of the day, you'll still have a turd.
 
 Half-baked ideas can save you the pain of seeing a company steal your work. It can save you time and effort working on non-contextual assignments. Most importantly, as a UX specialist, it filters out companies with no interest in improving their UX maturity.
+
+
+## Avoid Baking
+
+You can easily tear apart or deconstruct unfinished projects/ideas/thoughts. Think of it this way: You're more likely to scribble over some stick figures that represent a person than to scribble over the Mona Lisa.
+
+The ability to tear down and rebuild without having lost time or effort in the process is a liberating experience and allows you to take your design process and research to new bounds and places.
+
+There is something about labelling a project as "complete" that stifles creativity and innovation. When we label something as "complete", the product changes from a dynamic and responsive thing to something unchangeable and static. At the very least, "complete" projects become change-resistant and non-malleable. This resistance to change means your project will receive an inevitable expiration date.
+
+
+I propose to avoid labelling projects as complete. When we keep our work in a constant state of incompleteness, our end product will always be open and responsive to changing factors. More importantly, If we always have access to the unrefined version of the end product, it will be much easier to tear it apart, explore, research, and iterate over it.
+
+I am not advocating delivering unrefined work. You ought not to throw your craftsmanship outside the window, but it's also critical to know when to pour all your blood, sweat, and tear into a product's craft and when to adopt the saying: "Perfect is the enemy of good".
 
 
 ## Final Words
