@@ -8,9 +8,7 @@ image: assets/images/30.png
 ---
 
 
-I was recently going through my work and had a moment of realisation:
-
-I loved my incomplete projects more than my fully fleshed-out projects. There was something raw about them and the ideas they presented. The page didn't have fully baked ideas.
+I was recently going through my work and had a moment of realisation: I loved my incomplete projects more than my fully fleshed-out projects. There was something raw about them and the ideas they presented. The page didn't have fully baked ideas.
 
 The ideas on the page were still growing, developing and evolving.
 
