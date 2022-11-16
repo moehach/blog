@@ -977,15 +977,16 @@ img.footer-social-icon:hover{
         transition:opacity 0.5s linear;
     }
 }
-
 .wrap-search {
     position: fixed;
     left: 30px;
     bottom: 25px;
     z-index: 1026;
+    margin-top: auto;
 }
 .modal-open .modal {
     background: rgba(0,0,0,0.3);
+    width:100%;
 }
 .lunrsearchresult {
     .title {
@@ -1096,9 +1097,24 @@ footer{margin-bottom:5.625em}
     }
 }
 
+.search-mob-width{width:auto;}
+
+
 @media (max-width: 600px) {
     .nav-icon, .sidebar,  {
         position:fixed;
+    }
+
+    .wrap-search {
+        position: relative;
+        left: auto;
+        bottom: auto;
+        z-index: auto;
+        margin-top:90px;
+    }
+
+    .fas.fa-search.show-search{
+      display: none;
     }
 
     .share{
@@ -1113,7 +1129,15 @@ footer{margin-bottom:5.625em}
     .site-content {
         padding-top:0;
     }
-  
+    .bd-search {
+        visibility: visible;
+        opacity: 1;
+        transition: opacity 0.5s linear;
+        width:100%;
+    }
+
+    .search-mob-width{width:100%;}
+    .mr-auto-mob{margin-right:auto;}
 
     .share {
         display: flex;
@@ -1150,5 +1174,12 @@ footer{margin-bottom:5.625em}
     .article-post {
         font-size:0.9rem;
     }
-
+    .wrap-search {
+        .fa-search {
+            display:none;
+        }
+        .form-control {
+            height:35px;
+        }
+    }
 }
