@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading List: User Experience and Personal Development"
+title:  "Reading List: UX and Personal Development"
 author: moe
 categories: [ Resources ]
 tags: [ Books ]
