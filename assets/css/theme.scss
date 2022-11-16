@@ -449,138 +449,6 @@ align-items: center;}
 // Custom
 
 
-//footer
-/*
-.footer-row {
-  position: relative;
-  width: 100%;
-}
-
-
-  .footer-col-2 {
-    width: 46%;
-    display: inline-block;
-    position: relative;
-    padding:0;
-    margin: 0;
-    text-align: left;
-    margin-top: 18px;
-  }
-
-  .footer-col-moe {
-    margin-top: 36px;
-    display: block;
-    width:96%;
-  }
-
-  .footer-col-5 {
-    width: 96%;
-  }
-
-
-.footer-h6{
-  margin: 0;
-}
-
-ul.footer-link-menu{
-  margin:0;
-  list-style-type: none;
-  padding: 0;
-}
-
-.footer-link-menu li{
-  font-size: 0.9rem;
-  margin: 0;
-  margin-bottom:18px;
-}
-
-
-.footer-link-menu a{
-  font-weight: 600;
-  list-style-type: none;
-  color: #414141;
-}
-
-.footer-link-menu a:hover{
-  color: #0072ad;
-}
-
-a.footer-link-sub{
-  color: #414141;
-  font-size: 0.9rem;
-  font-weight: 300;
-}
-
-a.footer-link-sub:hover{
-  color: #0072ad;
-}
-
-
-
-.footer-trademark{
-  margin:0;
-  max-height: 44px;
-}
-
-p.footer-trademark{
-  margin-top:9px;
-  margin-bottom:0px;
-}
-
-
-img.footer-social-icon{
-  display: inline-block;
-  padding:0;
-  opacity: 0.65;
-}
-
-img.footer-social-icon:hover{
-  opacity:1;
-}
-
-@media screen and (min-width: 768px){
-
-
-  .footer-col-2 {
-      width: 12.66%;
-      display: inline-block;
-      padding:0;
-      margin: 0;
-      margin-top: 18px;
-    }
-
-
-    .footer-col-5 {
-      width: 70.68%;
-       height:152px;
-       display: inline-block;
-       top:0;
-       margin: 0;
-       padding: 0;
-
-
-    }
-
-
-    img.footer-social-icon{
-       display: inline-block;
-        position:relative;
-       float:right;
-       clear:both;
-       margin:0;
-       padding: 0;
-
-
-    }
-
-    .footer-row {
-     display:inline;
-     margin:0px;
-     padding:0px;
-    }
-}
-*/
-
 /*Footer*/
 
 .footer-row {
@@ -1161,8 +1029,16 @@ body.active-side {
     background:#fff;
 }
 
+footer{margin-bottom:5.625em}
+
+
+
 //responsive tweaks
 @media (min-width: 768px) {
+
+  footer{margin-bottom:0em}
+
+
     .container, .container-sm, .container-md, .container-lg {
         max-width: 80%;
     }
