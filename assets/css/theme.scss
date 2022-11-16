@@ -978,27 +978,6 @@ img.footer-social-icon:hover{
     }
 }
 
-@media (max-width:500px){
-
-  .wrap-search {
-      position: relative;
-      left: auto;
-      bottom: auto;
-      z-index: auto;
-      margin-top: 90px;
-  }
-
-  .mr-auto-mob{margin-right:auto;}
-
-  .bd-search {
-    visibility: visible;
-        opacity: 1;
-        transition: opacity 0.5s linear;
-        width: 96%;
-        margin: auto;
-  }
-
-
   .fas.fa-search.show-search {
       display: none;
   }
@@ -1181,12 +1160,5 @@ footer{margin-bottom:5.625em}
     .article-post {
         font-size:0.9rem;
     }
-    .wrap-search {
-        .fa-search {
-            display:none;
-        }
-        .form-control {
-            height:35px;
-        }
-    }
+
 }
