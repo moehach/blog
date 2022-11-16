@@ -977,6 +977,34 @@ img.footer-social-icon:hover{
         transition:opacity 0.5s linear;
     }
 }
+
+@media (max-width:500px){
+
+  .wrap-search {
+      position: relative;
+      left: auto;
+      bottom: auto;
+      z-index: auto;
+      margin-top: 90px;
+  }
+
+  .mr-auto-mob{margin-right:auto;}
+
+  .bd-search {
+    visibility: visible;
+        opacity: 1;
+        transition: opacity 0.5s linear;
+        width: 96%;
+        margin: auto;
+  }
+
+
+  .fas.fa-search.show-search {
+      display: none;
+  }
+
+}
+
 .wrap-search {
     position: fixed;
     left: 30px;

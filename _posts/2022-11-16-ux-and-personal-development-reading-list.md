@@ -15,7 +15,7 @@ I did not list these books in any particular order.
 
 **Full disclosure:** As an Amazon Associate, I earn from qualifying purchases on the books I listed. Any commission I might receive will be at no extra cost to you.
 
-## User Experience
+## UX
 
 - [Delta CX: The Truth About How Valuing Customer Experience Can Transform Your Business](https://amzn.to/3X0Nli9)
 - [Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://amzn.to/3O89s25)
@@ -72,6 +72,6 @@ I did not list these books in any particular order.
 - [Millionaire Teacher: The Nine Rules of Wealth You Should Have Learned in School](https://amzn.to/3TGqFAO)
 - [A Random Walk Down Wall Street](https://amzn.to/3OasBAe)
 
-## Do you have recommendations?
+## Suggestions?
 
 Feel free to reach out if you have any book recommendations! I am always up for a good read.
