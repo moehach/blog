@@ -7,9 +7,18 @@ tags: [ Books ]
 image: assets/images/31.png
 ---
 
-In this post, you will find a list of books covering various categories ranging from User Experience to Personal Finance.
+I compiled a UX-focused reading list that filtered out the painful-to-read books so that you don't have to. I'm not a bookworm, so when a book is boring or fails to deliver value, walking on a floor filled with crushed glass sounds like a better idea to me.
 
-The post will change over time as I add new books to the list. I will be curating the list and adding/removing books that I read and felt were beneficial.
+My focus wasn't to create a pure UX-only reading list. I wanted a list that covered subjects that allowed me to be well-rounded and well-versed in equally important topics as a professional and an individual.
+
+The reading list focuses heavily on UX and Design and touches upon Product Management, Entrepreneurship, and Interpersonal Communication. I also included two "flavoured" sections that interest me: Personal Finance (Investing, mostly) and BlockChain.
+
+This list is a breathing document that I am actively curating. I will add books to this list based on my ability to answer the following questions with a resounding "Yes!":
+
+- Did I read the book?
+- Did I learn anything new?
+- Did I enjoy reading the book?
+
 
 I did not list these books in any particular order.
 
@@ -59,7 +68,6 @@ I did not list these books in any particular order.
 - [The Bitcoin Standard](https://amzn.to/3hLzTym)
 - [DeFi and the Future of Finance](https://amzn.to/3ECmrWH)
 - [Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy](https://amzn.to/3g5vndL)
-- [The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum](https://amzn.to/3EzlyOA)
 
 ## Investing and Personal Finance
 
