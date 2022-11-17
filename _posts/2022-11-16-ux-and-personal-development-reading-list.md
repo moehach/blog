@@ -13,7 +13,7 @@ My focus wasn't to create a pure UX-only reading list. I wanted a list that cove
 
 The reading list focuses heavily on UX and Design and touches upon Product Management, Entrepreneurship, and Interpersonal Communication. I also included two "flavoured" sections that interest me: Personal Finance (Investing, mostly) and BlockChain.
 
-This list is a breathing document that I am actively curating. I will add books to this list based on my ability to answer the following questions with a resounding "Yes!":
+This list is a living document that I am actively curating. I will add books to this list based on my ability to answer the following questions with a resounding "Yes!":
 
 - Did I read the book?
 - Did I learn anything new?
@@ -22,7 +22,7 @@ This list is a breathing document that I am actively curating. I will add books 
 
 I did not list these books in any particular order.
 
-**Full disclosure:** As an Amazon Associate, I earn from qualifying purchases on the books I listed. Any commission I might receive will be at no extra cost to you.
+**Full disclosure:** As an Amazon Associate, I earn from qualifying purchases on the books you purchase using the links I listed. Any commission I might receive will be at no extra cost to you.
 
 ## UX
 
