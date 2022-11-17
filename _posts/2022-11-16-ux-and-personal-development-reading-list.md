@@ -7,7 +7,9 @@ tags: [ Books ]
 image: assets/images/31.png
 ---
 
-I compiled a UX-focused reading list that filtered out the painful-to-read books so that you don't have to. I'm not a bookworm, so when a book is boring or fails to deliver value, walking on a floor filled with crushed glass sounds like a better idea to me.
+I compiled a UX-focused reading list that filtered out the painful-to-read books so that you don't have to.
+
+I'm not a bookworm, so when a book is boring or fails to deliver value, walking on a floor filled with crushed glass sounds like a better idea to me.
 
 My focus wasn't to create a pure UX-only reading list. I wanted a list that covered subjects that allowed me to be well-rounded and well-versed in equally important topics as a professional and an individual.
 
