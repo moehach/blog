@@ -47,7 +47,6 @@ I did not list these books in any particular order.
 - [Lean Start-up](https://amzn.to/3X4PE3I)
 - [Personal MBA](https://amzn.to/3TASMkQ)
 - [High Output Management](https://amzn.to/3Gg95R8)
-- [The Kaizen Pocket Handbook](https://amzn.to/3Ak2FfS)
 
 ## Interpersonal communication
 
