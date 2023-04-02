@@ -6,11 +6,6 @@ categories: [ Design ]
 tags: [ Lessons, Foundations, Theory, Experience Design ]
 image: assets/images/31.png
 ---
-
-
-
-## Introduction
-
 In today’s world, digital technology has made life more convenient for many individuals. However, navigating websites or applications can be challenging for individuals with disabilities. It is essential to consider accessibility in UX design to ensure that all individuals can easily use digital technology, regardless of their abilities.
 
 Accessibility is an essential of UX that teams often overlook or ignore.
