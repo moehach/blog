@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Reading List: UX and Personal Development"
+title:  "The Importance of Accessibility in UX: Designing for All Abilities"
 author: moe
-categories: [ Resources ]
-tags: [ Books ]
+categories: [ Design ]
+tags: [ Lessons, Foundations, Theory, Experience Design ]
 image: assets/images/31.png
 ---
 
