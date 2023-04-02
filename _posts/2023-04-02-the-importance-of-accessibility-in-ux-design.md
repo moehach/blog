@@ -34,33 +34,20 @@ You will also find that designing with accessibility in mind will save you the p
 
 Let us take a look at how to apply accessibility to your work.
 
-### Use High-Contrast Colors
+1. **Use High-Contrast Colors:** Using high-contrast colours can make your website or application more accessible to people with visual impairments. People with colour blindness or low vision might have difficulty distinguishing between colours with low contrast. Using high-contrast colours can help these users read the text and use the interface.
 
-Using high-contrast colours can make your website or application more accessible to people with visual impairments. People with colour blindness or low vision might have difficulty distinguishing between colours with low contrast. Using high-contrast colours can help these users read the text and use the interface.
+2. **Use Clear and Readable Fonts:** Using clear and readable fonts can make a difference in the accessibility of your design. Sans-serif fonts such as Arial and Helvetica are usually easier to read than fonts with decorative or cursive elements, especially for people with dyslexia.
 
-### Use Clear and Readable Fonts
-
-Using clear and readable fonts can make a difference in the accessibility of your design. Sans-serif fonts such as Arial and Helvetica are usually easier to read than fonts with decorative or cursive elements, especially for people with dyslexia.
-
-### Use Descriptive Labels and Alt Text
-
+3. **Use Descriptive Labels and Alt Text:**
 Using descriptive labels and alt text can help users with screen readers to navigate your website or application. The alt text describes an image, and screen readers read this description to the user. Descriptive labels make it easier for users to understand the purpose of each field or button.
 
-### Provide Keyboard Accessibility
+4. **Provide Keyboard Accessibility:** Some users cannot use a mouse or a touch screen to interact with your interface. Keyboard accessibility can make your website or application accessible to these users.
 
-Some users cannot use a mouse or a touch screen to interact with your interface. Keyboard accessibility can make your website or application accessible to these users.
+5. **Provide Captions and Transcripts for Multimedia:** Providing captions and transcripts for multimedia, such as videos and podcasts, can make your content more accessible to users with hearing impairments.
 
-### Provide Captions and Transcripts for Multimedia
+6. **Avoid Flashing or Blinking Elements:** Flashing or blinking elements can trigger seizures in users with photosensitive epilepsy. Avoid using design elements that blink/flash rapidly, and if you have to use them, provide a way for users to disable them.
 
-Providing captions and transcripts for multimedia, such as videos and podcasts, can make your content more accessible to users with hearing impairments.
-
-### Avoid Flashing or Blinking Elements
-
-Flashing or blinking elements can trigger seizures in users with photosensitive epilepsy. Avoid using design elements that blink/flash rapidly, and if you have to use them, provide a way for users to disable them.
-
-### Provide Clear Navigation
-
-Providing easy-to-follow navigation will make your website accessible to users with cognitive disabilities.
+7. **Provide Clear Navigation:** Providing easy-to-follow navigation will make your website accessible to users with cognitive disabilities.
 
 Users with cognitive disabilities may find it difficult to navigate complex interfaces or understand the purpose of certain elements. Clear labelling elements can help users navigate your interface more easily.
 
