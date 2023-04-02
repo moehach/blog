@@ -116,8 +116,6 @@ Let us embrace the challenge and design with accessibility in mind.
 
 [*Accessibility in UX: Why It Matters and How to Achieve?* (n.d.). https://www.eleken.co/blog-posts/accessibility-in-ux-helpful-for-people-beneficial-for-business](https://www.eleken.co/blog-posts/accessibility-in-ux-helpful-for-people-beneficial-for-business)
 
-[*Getting started | UX design | Accessibility for Teams*. (n.d.). https://accessibility.digital.gov/ux/getting-started/#:~:text=Accessibility%20for%20user%20experience%20(UX,rather%20than%20checklist%20of%20requirements.](https://accessibility.digital.gov/ux/getting-started/#:~:text=Accessibility%20for%20user%20experience%20(UX,rather%20than%20checklist%20of%20requirements.)
-
 [Hausler, J. (2023, February 19). *7 Things Every Designer Needs to Know about Accessibility*. Medium. https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 
 [Kaur, A. (2021, December 7). *Accessibility guidelines for UX Designers - UX Collective*. Medium. https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be)
