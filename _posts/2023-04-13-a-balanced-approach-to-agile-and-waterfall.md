@@ -12,10 +12,10 @@ I won't dive too deeply into each methodology in this post but I will briefly ex
 
 When it comes to software development, there are two primary methodologies: Agile and Waterfall. These methodologies differ in their approach to project management and can significantly impact the outcomes of UX and product teams. Both have their strengths and weaknesses. In my experience, product teams that combine both tend to perform best.
 
-##Waterfall
+## Waterfall
 Waterfall methodology is a linear, sequential approach that moves through the project phases in steps. In this approach, the product team completes each stage before the next one can begin. The advantage of this approach is that it is suitable for long-term projects, and it gives the design and research team a head start before committing more resources. You can think of it as the design and research team playing the role of vanguards or scouts, outlining a path forward. The bad news is design teams can end up so far ahead of the development team that both teams end up disconnected.
 
-##Agile
+## Agile
 Agile methodology, on the other hand, is a flexible, iterative approach that focuses on delivering small, working increments of the product in short cycles, typically two to four weeks. This approach is best for projects or features that are cheaper to pour resources on or already have a clear path forward. Agile is particularly useful if you want to develop a feature but are uncertain if it's worth going all-in. It allows you to get your feet wet before diving in. It also allows the design team to iterate on designs that they previously delivered via the Waterfall methodology. The idea behind Agile is to work in small/incremental cycles. The design and research team should be able to validate and test assumptions and make necessary changes. In reality? Product and development teams end up duct-taping their product together at the seams while BSing the board of directors that they have a clear plan and roadmap as they leave user research on the sidelines.
 
 Both approaches have strengths and weaknesses. A product team using both methodologies can benefit from their strengths and mitigate their weaknesses. The Waterfall methodology provides a solid foundation for the project by setting up a long-term path, while the Agile methodology allows the team to iterate and make adjustments as needed. The product team works on setting up a long-term path while also iterating on the stepping stones along the way to make the flow easier to navigate for both the users and the development team.
@@ -24,7 +24,7 @@ A pet peeve I want to address is that research should always play a vital role r
 
 It's essential to ensure that both approaches don't lead to silos. Both methodologies should involve collaboration and working together across teams. Design and research team members should be involved in every stage of the project to ensure that they're contributing their expertise, and developers should be involved in the early stages of the project to ensure that their feedback plays a role in informing the design process.
 
-##Final Thoughts
+## Final Thoughts
 
 In short, I believe Agile and Waterfall aren't at odds but are two methods that synergize and complement one another. They're also not novel ideas or divine words you cannot deviate from. Agile and Waterfall both work, but you need to understand why and when to choose one over another.
 
