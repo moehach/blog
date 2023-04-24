@@ -29,6 +29,15 @@ AI can enhance our daily tasks by providing insights into user behaviour and pre
 
 AI-powered tools can analyze website traffic and user engagement, identify patterns in user behaviour, and make recommendations for improving the user experience. These insights help us design more effective and engaging user experiences.
 
+## Fill in the gaps
+AI has been a game-changer for me in terms of filling in the gaps in my know-how and helping me execute projects.
+
+For example, when I was coding a news feed website, I used AI to teach me what certain code snippets do, how I could alter them to suit my needs. This helped me overcome the execution gap between design and coding, which had previously hindered my progress in personal projects.
+
+Similarly, I used AI to create scripts to organize my files, clean up my hard disk, and even create personal plugins on Figma to improve my workflow. With AI on my side, I can see things through past ideation and prototyping.
+
+AI isn't here to replace professionals. It is here to empower us by helping us become more efficient and effective in our work. By filling in the gaps in our knowledge and helping us execute on projects, AI can enable us to achieve more, faster.
+
 ## Limitations
 While AI has many benefits, it is critical to acknowledge its limitations.
 
