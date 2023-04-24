@@ -29,6 +29,13 @@ AI can enhance our daily tasks by providing insights into user behaviour and pre
 
 AI-powered tools can analyze website traffic and user engagement, identify patterns in user behaviour, and make recommendations for improving the user experience. These insights help us design more effective and engaging user experiences.
 
+## Replacing Lorem Ipsum
+For designers and developers, placeholder text is a necessary evil. Lorem Ipsum, the most commonly used placeholder text, is often used to fill in the gaps while a design is being created or tested. However, using Lorem Ipsum can be distracting or unhelpful. This is where AI-generated text can come in handy.
+
+Using AI-generated text can help you save time and effort. Instead of having to come up with new placeholder text for each project, you can simply use AI-generated text tailored to the specific needs or context of your project.
+
+Of course, it goes without mentioning that AI-generated text is not without its limitations. It is not meant to replace human-generated text since you still need to edit it. What AI-generated text can give you is a good starting point.
+
 ## Fill in the gaps
 AI has been a game-changer for me in terms of filling in the gaps in my know-how and helping me execute projects.
 
