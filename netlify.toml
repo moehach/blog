@@ -1,4 +1,7 @@
-
+[build]
+  command = "echo 'No build step'"
+  publish = "."
+  
 [[redirects]]
   from = "/*"
   to = "https://mghachem.com/:splat"
