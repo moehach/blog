@@ -3,12 +3,12 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://mghachem.com/blog/:splat"
+  to = "https://mghachem.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
   from = "/"
-  to = "https://mghachem.com/blog"
+  to = "https://mghachem.com/blog-index"
   status = 301
   force = true
