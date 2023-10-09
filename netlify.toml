@@ -1,3 +1,14 @@
 [build]
-  command = "echo 'No build step'"
   publish = "."
+
+[[redirects]]
+  from = "/*"
+  to = "https://mghachem.com/blog/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/"
+  to = "https://mghachem.com/blog"
+  status = 301
+  force = true
